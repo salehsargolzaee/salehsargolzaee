@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Saleh</h1>
-<h3 align="center">Web Developer.Interested in Machine Learning</h3>
 
 - 🌱 I’m currently learning **React and Tensorflow**
 
