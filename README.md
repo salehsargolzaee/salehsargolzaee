@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Saleh 
- <small align="center">a computer science student</small>
+<h1 align="center">Hi, I'm Saleh
 </h1>
+
 
 
 - 🌱 I’m currently learning **React and Tensorflow**
