@@ -3,9 +3,9 @@
 
 
 
-- 🌱 I’m currently learning **React and Tensorflow**
+- 🌱 I’m currently learning Tensorflow**
 
-- 💬 Ask me about **Node.js, Mongodb and Scikit-Learn**
+- 💬 Ask me about **Scikit-Learn, Regression Algorithms, CNN models**
 
 - 📫 How to reach me **salehsargolzaee@gmail.com**
 
