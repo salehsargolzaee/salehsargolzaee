@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/saleh-sargolzaee-819ba119a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="salehsargolzaee" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/saleh-sargolzaee-819ba119a/" target="blank"><img align="center" src="https://img.icons8.com/fluency/344/linkedin.png" alt="salehsargolzaee" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">I am familiar with :</h3>
