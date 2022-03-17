@@ -3,9 +3,9 @@
 
 
 
-- 🌱 I’m currently learning Tensorflow**
+- 🌱 I’m currently learning Deep Learning
 
-- 💬 Ask me about **Scikit-Learn, Regression Algorithms, CNN models**
+- 💬 We can talk about Machine Learning
 
 - 📫 How to reach me **salehsargolzaee@gmail.com**
 
