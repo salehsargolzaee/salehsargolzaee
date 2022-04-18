@@ -3,11 +3,11 @@
 
 
 
-- 🌱 I’m currently learning Deep Learning
+-  I’m currently learning Deep Learning
 
-- 💬 We can talk about Machine Learning
+-  We can talk about Machine Learning
 
-- 📫 How to reach me **salehsargolzaee@gmail.com**
+-  How to reach me **salehsargolzaee@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
