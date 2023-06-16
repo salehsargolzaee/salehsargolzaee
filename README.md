@@ -3,7 +3,7 @@
 
 
 
--  I’m currently learning Deep Learning
+-  I’m currently exploring the world of Machine Learning
 
 -  We can talk about Machine Learning
 
